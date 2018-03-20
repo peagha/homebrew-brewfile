@@ -12,6 +12,7 @@ cask 'firefox'
 cask 'google-chrome'
 
 cask '1password'
+cask 'authy'
 cask 'calibre'
 cask 'coconutbattery'
 cask 'daisydisk'
