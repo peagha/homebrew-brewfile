@@ -56,3 +56,5 @@ cask 'font-hack'
 cask 'font-m-plus'
 cask 'font-ubuntu'
 cask 'font-hermit'
+
+cask 'aerial'
